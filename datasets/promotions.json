@@ -1,0 +1,3 @@
+{"promotion_id":"PR001","promotion_name":"New Year Sale","discount_percent":10,"start_date":"2026-01-01","end_date":"2026-01-07"}
+{"promotion_id":"PR002","promotion_name":"Weekend Special","discount_percent":15,"start_date":"2026-01-10","end_date":"2026-01-12"}
+{"promotion_id":"PR003","promotion_name":"Loyalty Bonus","discount_percent":20,"start_date":"2026-01-15","end_date":"2026-01-20"}

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+target/
+logs/
+dbt_packages/
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+profiles.yml
+.DS_Store
+*service-account*.json
+*credentials*.json
+client_secret*.json
